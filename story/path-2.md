@@ -46,7 +46,7 @@ Inside the box is a row of switches, a tangle of wires, and one glass fuse that 
 
 Even with the power back on, the station will stay off the air until that fuse is replaced.
 
-[Swap in the spare fuse](#fuse-swapped)
+[Swap in the spare fuse](#fuse-swapped) if spare fuse
 [Wrap the burned fuse in a gum wrapper and push it back in](#gum-wrapper)
 [Close the box and step back](#path-2)
 
