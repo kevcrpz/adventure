@@ -16,25 +16,25 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-# The Last Light on Gull Island
-by: CS 1101
-theme: paper
+# Dead Air
+by: Kevin Corpus Hernandez
+theme: night
 
-## dock
-![A small rocky island at dusk, with a dark lighthouse on the cliff](images/island.svg)
+## booth
+It is 2 a.m. and you are the overnight DJ at KHLW, a tiny radio station on top of Hollow Hill. Outside, the worst storm of the year is shaking the windows.
 
-The ferry leaves you on a crooked wooden dock and chugs off into the fog. You are the new lighthouse keeper of Gull Island, and this is your first night on the job.
+A printout slides out of the old weather machine: **FLASH FLOOD WARNING. HOLLOW CREEK RISING. ALL RESIDENTS NEAR THE CREEK MOVE TO HIGH GROUND.**
 
-Up on the cliff, the lighthouse is dark. It should have been lit an hour ago.
+You lean into the microphone to read it. Then the lights go out, the music stops, and the red ON AIR sign fades to black.
 
-Somewhere out in the fog, a ship's horn sounds. Then another, closer.
+Half the town is asleep next to that creek, and your station is the only one they can hear out here.
 
-[Find a way to get that light working](#crossroads)
+[Grab your coat and get this station back on the air](#crossroads)
 
 ## crossroads
-You stand where the island's paths meet. Gulls complain from every roof and rock, and the dark tower watches over all of it.
+You stand in the dark hallway outside the booth. Rain hammers the roof.
 
-[Walk up the hill to the village](#path-1)
-[Take the windy trail along the cliffs](#path-2)
-[Head down to the beach](#path-3)
-[Go straight to the lighthouse](#path-4)
+To your left, a staircase leads down to the basement, where the backup generator lives. To your right, a metal ladder leads up to the roof, where the transmitter and the antenna are.
+
+[Go down to the basement](#path-1)
+[Climb up to the roof](#path-2)
