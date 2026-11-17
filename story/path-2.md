@@ -38,7 +38,7 @@ You shield your eyes from the rain and look down at the town. Hollow Creek is al
 
 Every one of those houses has a radio. None of them will hear a thing until you fix this.
 
-[Open the transmitter box](#tower-climb)
+[Open the transmitter box](#transmitter-box)
 [Climb the antenna tower](#tower-climb)
 
 ## tower-climb
