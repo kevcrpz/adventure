@@ -28,7 +28,7 @@ The basement stairs end in total darkness. You can hear water dripping somewhere
 
 The generator room is at the far end of the basement. The supply closet is right next to you, close enough to touch.
 
-[Light the way to the generator room](#generator-room)
+[Light the way to the generator room](#generator-room) if flashlight
 [Feel around inside the supply closet](#supply-closet)
 [Walk into the dark and hope for the best](#dark-walk)
 [Go back up to the hallway](#crossroads)
@@ -37,6 +37,8 @@ The generator room is at the far end of the basement. The supply closet is right
 You pat your way along the shelves: paper towels, a broken clock, a box of station bumper stickers from 1994.
 
 Then your hand closes around something heavy and cold. You click the switch, and a bright yellow beam cuts through the dark.
+
+get: flashlight
 
 [Step back out to the bottom of the stairs](#path-1)
 
@@ -53,6 +55,8 @@ THE END
 Your flashlight finds the generator: a dented orange machine the size of a refrigerator, with a pull cord on one side. Faded instructions are taped to the wall above it.
 
 On a shelf by the door sits a small cardboard box labeled **SPARE FUSES - TRANSMITTER**. One fuse is left. You put it in your pocket, just in case.
+
+get: spare fuse
 
 [Yank the pull cord as hard as you can](#flooded)
 [Read the instructions on the wall first](#instructions)
