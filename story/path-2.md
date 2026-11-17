@@ -30,7 +30,16 @@ The antenna tower rises from the middle of the roof. At its base is a gray metal
 
 [Open the transmitter box](#transmitter-box)
 [Climb the antenna tower](#tower-climb)
+[Look out over the town](#look-out)
 [Go back down to the hallway](#crossroads)
+
+## look-out
+You shield your eyes from the rain and look down at the town. Hollow Creek is already over its banks near the old bridge, and the water is creeping toward the first row of houses.
+
+Every one of those houses has a radio. None of them will hear a thing until you fix this.
+
+[Open the transmitter box](#transmitter-box)
+[Climb the antenna tower](#tower-climb)
 
 ## tower-climb
 You are not sure what you plan to do at the top of the tower, but climbing it feels like action.
