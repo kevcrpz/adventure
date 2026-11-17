@@ -21,45 +21,56 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by:
+by: Kevin Corpus Hernandez
 
 ## path-2
-The cliff trail is narrow, and the wind shoves at you like it wants you gone. Far below, waves smash white against the rocks.
+You push open the roof hatch and the wind almost takes it out of your hands. Rain blows sideways. Far below, you can see the lights of the town, and the dark line of Hollow Creek running through it.
 
-Halfway along, a dark cave opens into the cliff.
+The antenna tower rises from the middle of the roof. At its base is a gray metal box with a lightning bolt painted on it: the transmitter.
 
-[Look over the edge](#cliff-edge)
-[Step into the cave](#cave)
-[Go back to the crossroads](#crossroads)
+[Open the transmitter box](#transmitter-box)
+[Climb the antenna tower](#tower-climb)
+[Go back down to the hallway](#crossroads)
 
-## cliff-edge
-You lean out for a better look. The ground at the edge is softer than it looked.
+## tower-climb
+You are not sure what you plan to do at the top of the tower, but climbing it feels like action.
 
-It gives way. You slide, bounce, and land with a splash in a deep pool between the rocks: soaked, furious, and completely unhurt. By the time you've climbed out, the night is over.
+Halfway up, lightning hits a tree across the road. You can feel the thunder in the metal under your hands.
+
+You climb down much faster than you climbed up, and you spend the rest of the storm sitting in the stairwell with your heart pounding. The warning never goes out.
 
 THE END
 
-## cave
-A few steps in, the daylight gives up. You hear dripping water and, deeper in, something that might be wings.
+## transmitter-box
+Inside the box is a row of switches, a tangle of wires, and one glass fuse that has turned black. A sticker next to it says: **REPLACE WITH SAME TYPE ONLY.**
 
-It's far too dark to go further without a light.
+Even with the power back on, the station will stay off the air until that fuse is replaced.
 
-[Light your lantern and go deeper](#deep-cave) if lantern
-[Back out into the wind](#path-2)
+[Swap in the spare fuse](#fuse-swapped)
+[Wrap the burned fuse in a gum wrapper and push it back in](#gum-wrapper)
+[Close the box and step back](#path-2)
 
-## deep-cave
-Your lantern shows painted walls: ships, waves, and a tall tower with a light at the top. Hundreds of gulls watch you from their nests.
+## gum-wrapper
+You have seen this trick in a movie. You fold the foil wrapper around the dead fuse and press it into place.
 
-In the biggest nest sits a gull wearing a tiny golden crown. She looks at you. You look at her.
+There is a flash, a loud pop, and a thin line of smoke. Every light on the transmitter goes dark for good.
 
-[Bow to the Gull Queen](#gull-queen)
-[Back away slowly](#path-2)
+KHLW is off the air for a month. Your boss frames the gum wrapper and hangs it in the booth with your name under it.
 
-## gull-queen
-The Gull Queen nods once. Every gull in the cave rises together and pours out into the night.
+THE END
 
-They circle the dark tower, a thousand white wings shining in the fog, so bright that the ship's captain sees them and steers clear of the rocks.
+## fuse-swapped
+You pull out the burned fuse and press the spare one in. It fits with a click.
 
-Nobody in the village will ever believe you.
+The transmitter hums. One by one, its lights turn green, and at the top of the tower a red beacon starts to blink.
+
+[Run back down to the booth](#on-air)
+
+## on-air
+The ON AIR sign is glowing red. You slide into the chair, take one breath, and read the warning slowly and clearly, three times.
+
+Down in the valley, windows light up along the creek. Headlights move up the hill road, one after another, toward high ground.
+
+By sunrise the creek has swallowed two backyards and a garden shed, and not one person. You play a quiet song, pour the last of the coffee, and stay on the air until the morning host walks in.
 
 THE END
